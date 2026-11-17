@@ -1,0 +1,16 @@
+# Python environment and caches (recreated by install.sh)
+.venv/
+__pycache__/
+*.pyc
+
+# never commit rips, MakeMKV output or personal settings
+*.mkv
+*.mkv.partial*
+settings.json
+.disc-ripper*.json
+
+# editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
